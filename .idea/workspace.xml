@@ -56,6 +56,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -218,10 +223,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="450" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1583305378997" />
-    <state x="231" y="22" key="CommitChangelistDialog2" timestamp="1583481911875">
+    <state x="231" y="22" key="CommitChangelistDialog2" timestamp="1583482993739">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="231" y="22" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1583481911875" />
+    <state x="231" y="22" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1583482993739" />
     <state x="174" y="127" width="440" height="493" key="FileChooserDialogImpl" timestamp="1583478661986">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -282,10 +287,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="221" y="7" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1583482948058" />
-    <state x="312" y="150" key="Vcs.Push.Dialog.v2" timestamp="1583482207509">
+    <state x="312" y="150" key="Vcs.Push.Dialog.v2" timestamp="1583483031931">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="150" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1583482207509" />
+    <state x="312" y="150" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1583483031931" />
     <state x="407" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1583480315136">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
