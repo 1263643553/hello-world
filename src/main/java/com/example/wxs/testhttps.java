@@ -33,7 +33,7 @@ public class testhttps {
 
     public static void main(String[] args) throws IOException, NoSuchAlgorithmException, KeyStoreException, KeyManagementException {
 
-        String url = "https://api.weixin.qq.com/sns/jscode2session?appid=wxb9b46eb2747e856f&secret=c192b492c5cbfe0a56b9dd4e319474dc&js_code=011RA9142IqL0R0InP442dNe142RA91m&grant_type=authorization_code";
+        String url = "https://api.weixin.qq.com/sns/jscode2session?appid=wxb9b46eb2747e856f&secret=c192b492c5cbfe0a56b9dd4e319474dc&js_code=071Amifz1eNArd0OfHgz1Qcmfz1AmifB&grant_type=authorization_code";
         try (CloseableHttpClient httpClient = createHttpClient()) {
             HttpGet httpGet = new HttpGet(url);
             try (CloseableHttpResponse httpResponse = httpClient.execute(httpGet)) {
@@ -41,6 +41,7 @@ public class testhttps {
                 String result = EntityUtils.toString(entity);
                 EntityUtils.consume(entity);
                 String[] strings=result.split(",");
+                System.out.println(result);
                 System.out.println(Arrays.toString(strings));
             }
         }
